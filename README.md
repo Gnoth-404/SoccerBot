@@ -2,16 +2,14 @@
 
 
 
----
 
 ## Features 🚀
 
-- **RGB Backlight**: Dynamic color-changing LED lighting for a cool visual effect.  
-- **Motorized Spinner & Solenoid Kicker**: Precision ball control and kicking mechanism.  
-- **3D-Printed Mecanum Wheels**: Full omnidirectional movement for agility.  
+- **Motorized Dribbler & Solenoid Kicker**: Precision ball control and kicking mechanism.  
+- **3D-Printed Mecanum Wheels**: Full omnidirectional movement.  
 - **Bluetooth Control**: Wirelessly controlled via a custom smartphone app.  
-- **Servo Mechanism**: Adjustable servo for fine-tuned actions (e.g., shooting angle).  
-- **Adjustable Motor Speed**: Customize motor speeds for smooth control.  
+- **Servo Mechanism**: Adjustable servo for shooting angle.  
+- **RGB Backlight**: Dynamic color-changing LED lighting for a cool visual effect.  
 
 ![Soccerbot](./fig/soccer_bot.jpg)
 
